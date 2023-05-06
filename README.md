@@ -9,6 +9,16 @@ by event organizers and approved or rejected.
 
 ![Diagram of the main workflow of the app](./docs/images/codetalk-diagram.png)
 
+## Branches saw on the talk
+
+* [`00-repository-bad`](https://github.com/DanielRamosAcosta/codetalk/tree/00-repository-bad)
+* [`00-repository-good`](https://github.com/DanielRamosAcosta/codetalk/tree/00-repository-good)
+* [`01-objects-good`](https://github.com/DanielRamosAcosta/codetalk/tree/01-objects-good)
+* [`02-use-cases-good`](https://github.com/DanielRamosAcosta/codetalk/tree/02-use-cases-good)
+* [`03-cohesion-good`](https://github.com/DanielRamosAcosta/codetalk/tree/03-cohesion-good)
+* [`04-encapsulation-good`](https://github.com/DanielRamosAcosta/codetalk/tree/04-encapsulation-good)
+* [`05-domain-rules-good`](https://github.com/DanielRamosAcosta/codetalk/tree/05-domain-rules-good)
+* [`06-value-objects-good`](https://github.com/DanielRamosAcosta/codetalk/tree/06-value-objects-good)
 
 ## 💻 I'm a dev, how do I get started?
 
